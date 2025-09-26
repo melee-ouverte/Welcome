@@ -6,17 +6,23 @@
 ## Identité
 
 - **Nom / Prénom :**
-Pierre Siccardi
+Xavier Delaunay
 
 - **Pseudo GitHub :**
-darksip
+dxav
 
 - **Lien vers profil GitHub :**
-https://github.com/darksip
+https://github.com/dxav
 
 - **Optionnel – Email (pour invitation ou contact) :**  
-pierre.siccardi@gmail.com
+d.xav2@free.fr
 
 ## À propos (facultatif)
 
-À toi de dire quelques mots sur toi : ce que tu fais, ce que tu souhaites explorer/expérimenter dans LaMeleeOuverte, technologies préférées, etc.
+Expert en compression de données et traitements algorithmique des données scientifique.
+Je travail dans le domaine du spatial.
+
+Je souhaite explorer l'outil IA comme aide à la programmation et les agents IA pour l'automatisation de certaines tâches.
+
+Technologies/outils d'intérêt : Github-copilot, Mistral AI, gemini-cli
+
