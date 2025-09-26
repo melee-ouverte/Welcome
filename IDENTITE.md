@@ -1,22 +1,19 @@
----
-
-### IDENTITE.md (fichier à modifier par chaque participant)
-
 ```md
 ## Identité
 
 - **Nom / Prénom :**
-Pierre Siccardi
+Mathieu Gonzalez
 
 - **Pseudo GitHub :**
-darksip
+MathieuGzz
 
 - **Lien vers profil GitHub :**
-https://github.com/darksip
+https://github.com/MathieuGzz
 
 - **Optionnel – Email (pour invitation ou contact) :**  
-pierre.siccardi@gmail.com
+mathieu@mobix.fr
 
 ## À propos (facultatif)
 
-À toi de dire quelques mots sur toi : ce que tu fais, ce que tu souhaites explorer/expérimenter dans LaMeleeOuverte, technologies préférées, etc.
+Consultant et développeur spécialisé dans la suite d’applications Zoho, avec expertise en Deluge (language spécifique Zoho) et compétences ponctuelles en HTML, CSS et JavaScript.
+Également data analyst sur Zoho Analytics, avec un fort intérêt pour l’intelligence artificielle et son intégration dans les solutions digitales.
